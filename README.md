@@ -4,6 +4,10 @@
 
 - [Euclid](https://github.com/SpieleMann/write-up/blob/main/whitehat2021/euclid/euclid_71164baef93f538ecfcc1976ab1d966f9787945999bdb0a8db34cbdebd3d58fd.tar.gz) (Crypto)
 
+## Whitehat 2021 Finals
+
+- [Finger Snap](https://github.com/ironore15/ctf/tree/master/2021-WHITCON/finger_snap) (Crypto)
+
 ## CyberOC 2020 Quals
 
 - [Forgery on Elliptic World](https://github.com/leesh3288/CTF/blob/master/2020/20CyberOC/Qual/chal_files/Forgery_on_Elliptic_World_f99e825b2498024a0b99e874e6a702e8.zip) (Crypto)

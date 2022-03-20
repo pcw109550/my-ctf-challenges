@@ -1,5 +1,10 @@
 # my-ctf-challenges
 
+## [GoN 2022 Spring Open Qual](https://dreamhack.io/ctf/24/)
+
+- [trillionaire](https://dreamhack.io/wargame/challenges/475/) (BlockChain, Crypto)
+- [Leetcode](https://dreamhack.io/wargame/challenges/465/) (Misc)
+
 ## Whitehat 2021 Quals
 
 - [Euclid](https://github.com/SpieleMann/write-up/blob/main/whitehat2021/euclid/euclid_71164baef93f538ecfcc1976ab1d966f9787945999bdb0a8db34cbdebd3d58fd.tar.gz) (Crypto)

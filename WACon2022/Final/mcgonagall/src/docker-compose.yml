@@ -1,0 +1,6 @@
+version: '2.4'
+services:
+    mcgonagall:
+        build: ./
+        ports:
+            - "13337:13337"

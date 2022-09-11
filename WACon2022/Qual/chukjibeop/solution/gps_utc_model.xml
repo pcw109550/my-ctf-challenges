@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<!DOCTYPE boost_serialization>
+<boost_serialization signature="serialization::archive" version="17">
+<GNSS-SDR_utc_model class_id="0" tracking_level="0" version="0">
+	<A0>9.31322574615478516e-10</A0>
+	<A1>2.66453525910037570e-15</A1>
+	<A2>0.00000000000000000e+00</A2>
+	<tot>503808</tot>
+	<WN_T>165</WN_T>
+	<DeltaT_LS>18</DeltaT_LS>
+	<WN_LSF>137</WN_LSF>
+	<DN>7</DN>
+	<DeltaT_LSF>18</DeltaT_LSF>
+	<valid>1</valid>
+</GNSS-SDR_utc_model>
+</boost_serialization>
+

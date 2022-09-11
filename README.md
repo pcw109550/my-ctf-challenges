@@ -1,5 +1,14 @@
 # my-ctf-challenges
 
+## [WACon 2022 Finals](https://wacon.world/)
+
+- [mcgonagall](WACon2022/Final/mcgonagall/) (Crypto)
+- [trinity](WACon2022/Final/trinity/) (Crypto)
+
+## [WACon 2022 Quals](https://wacon.world/)
+
+- [chukjibeop](WACon2022/Qual/chukjibeop) (Misc)
+
 ## [GoN 2022 Spring Open Qual](https://dreamhack.io/ctf/24/)
 
 - [trillionaire](https://dreamhack.io/wargame/challenges/475/) (BlockChain, Crypto)

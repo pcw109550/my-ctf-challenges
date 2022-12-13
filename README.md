@@ -1,5 +1,9 @@
 # my-ctf-challenges
 
+## [Whitehat 2022 Finals](https://www.whitehatcontest.com/)
+
+- [Integration Bee](https://github.com/sean9892/ctf-writeup/tree/main/whitehat_contest_2022/integration_bee) (Crypto)
+
 ## [WACon 2022 Finals](https://wacon.world/)
 
 - [mcgonagall](WACon2022/Final/mcgonagall/) (Crypto)

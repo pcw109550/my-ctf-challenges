@@ -8,7 +8,7 @@
 ## [WACon 2023 Quals](https://wacon.world/)
 
 - [cry](WACon2023/Qual/cry/) (Crypto)
-- [push-it-to-the-limity](WACon2023/Qual/push-it-to-the-limit/) (Crypto)
+- [push-it-to-the-limit](WACon2023/Qual/push-it-to-the-limit/) (Crypto)
 
 ## [Whitehat 2022 Finals](https://www.whitehatcontest.com/)
 

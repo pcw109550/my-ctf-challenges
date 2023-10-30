@@ -1,5 +1,15 @@
 # my-ctf-challenges
 
+## [WACon 2023 Finals](https://wacon.world/)
+
+- [Blob Me Maybe](https://github.com/pcw109550/blob-me-maybe) (Blockchain, Crypto)
+- [Log Me Maybe](https://github.com/pcw109550/log-me-maybe) (Blockchain, Crypto)
+
+## [WACon 2023 Quals](https://wacon.world/)
+
+- [cry](WACon2023/Qual/cry/) (Crypto)
+- [push-it-to-the-limity](WACon2023/Qual/push-it-to-the-limit/) (Crypto)
+
 ## [Whitehat 2022 Finals](https://www.whitehatcontest.com/)
 
 - [Integration Bee](https://github.com/sean9892/ctf-writeup/tree/main/whitehat_contest_2022/integration_bee) (Crypto)

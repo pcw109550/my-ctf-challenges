@@ -1,0 +1,8 @@
+services:
+  resonance:
+    container_name: resonance
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "10955:10955"

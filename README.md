@@ -1,5 +1,8 @@
 # my-ctf-challenges
 
+## [Codegate CTF 2025 Preliminary](https://ctftime.org/event/2706/)
+- [Resonance](codegate2025/Qual/Resonance) (Crypto)
+
 ## [Codegate CTF 2024 Finals](https://ctftime.org/event/2347/)
 - [Quantitative-Easing](codegate2024/Final/Quantitative-Easing) (Blockchain, Crypto)
 

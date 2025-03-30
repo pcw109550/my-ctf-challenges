@@ -1,0 +1,2 @@
+fastecdsa==2.3.2
+sympy==1.13.1

@@ -1,5 +1,8 @@
 # my-ctf-challenges
 
+## [Codegate CTF 2024 Finals](https://ctftime.org/event/2347/)
+- [Quantitative-Easing](codegate2024/Final/Quantitative-Easing) (Blockchain, Crypto)
+
 ## [WACon 2023 Finals](https://wacon.world/)
 
 - [Blob Me Maybe](https://github.com/pcw109550/blob-me-maybe) (Blockchain, Crypto)
